@@ -1,0 +1,52 @@
+Robyn Morales
+12345678
+1125.50
+True
+Terence Armstrong
+87654321
+500.50
+False
+Monica Greer
+4048702
+31529.83
+True
+Stanley Horton
+3038369
+27655.7
+True
+Genevieve Barker
+7420116
+38367.38
+True
+Angel Diaz
+4167072
+94513.01
+False
+Kristi Manning
+2570323
+80902.78
+False
+Angel Diaz
+4495466
+72938.99
+False
+Monica Greer
+4089998
+78326.25
+True
+Terence Armstrong
+8395468
+48732.03
+True
+Martha Elliott
+4829378
+71224.1
+True
+Martha Elliott
+9343614
+65032.8
+False
+Robyn Morales
+1176985
+36390.26
+True
